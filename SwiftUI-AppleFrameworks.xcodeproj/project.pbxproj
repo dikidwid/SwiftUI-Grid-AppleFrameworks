@@ -49,8 +49,8 @@
 		3A49CC0F2AE1207C00B4A8AA /* Scenes */ = {
 			isa = PBXGroup;
 			children = (
-				3A49CC112AE120A200B4A8AA /* FrameworkDetailView */,
 				3A49CC102AE1209000B4A8AA /* FrameworkGridView */,
+				3A49CC112AE120A200B4A8AA /* FrameworkDetailView */,
 			);
 			path = Scenes;
 			sourceTree = "<group>";
