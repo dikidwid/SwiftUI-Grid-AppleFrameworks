@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-class FrameworkGridViewModel: ObservableObject {
+class FrameworkListViewModel: ObservableObject {
     
     let columns: [GridItem] = [GridItem(.flexible()),
                                GridItem(.flexible()),
